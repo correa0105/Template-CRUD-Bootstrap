@@ -21,7 +21,7 @@ Me chamo Lucas Corrêa, tenho 22 anos, e moro no Rio Grande do Sul.
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/correalucas0105/">
-        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQH5e4dHCNg-lA/profile-displayphoto-shrink_200_200/0/1656952608892?e=1664409600&v=beta&t=I5TvYIy4Bs9zaQYMGjhgjBxbcS2jwh3ubYGcJU3boLk" width="100px;" alt="Foto de Lucas Corrêa no GitHub"/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEVN6OhKPtmUw/profile-displayphoto-shrink_800_800/0/1662487563515?e=1668643200&v=beta&t=oUCGysfX6tpC8t9BsfTE1Q_NmyqADYu8lsy7cRO8vc8" width="100px;" alt="Foto de Lucas Corrêa no GitHub"/><br>
         <sub>
             <b>Lucas Corrêa</b>
         </sub>
